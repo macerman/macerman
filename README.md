@@ -1,11 +1,13 @@
 👋 Hi, I’m Melike ACERMAN,
 
--I like to turn my own projects to the codes
+I like to turn my ideas to codes
 
--Works for the TIAT Team in Teknofest, underwater vehicles
+I currently work on Unmanned Underwater Systems
 
--I’m currently on high school
+I learned Python, Open-CV Computer Vision, HTML 5, CSS 3 and Javascript
 
--My Instagram address: melikeacrmn
+Working on C and C++ now
 
--Email: acermanmelike@gmail.com
+Instagram: melikeacrmn
+
+Contact: acermanmelike@gmail.com
