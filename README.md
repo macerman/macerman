@@ -2,7 +2,11 @@
 
 I like to turn my ideas to codes
 
-I currently work on Unmanned Underwater Systems
+Currently learning about Unmanned Aerial Vehicles
+
+Wanted to join Airforces
+
+I used to work on Unmanned Underwater Systems
 
 I learned Python, Open-CV Computer Vision, HTML 5, CSS 3 and Javascript
 
